@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimu-code (Kim Huynh)
 - 👀 I’m interested in updating and improving my coding skills!
-- 🌱 I’m currently learning HTML, CSS, SQL, Java and Javascript
+- 🌱 I have experience inHTML, CSS, SQL, Java but would like to learn about Javascript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
